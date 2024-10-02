@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: blue;
+  height: 100px;
+  padding-top: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #00ced1;
+}
+
+img {
+  width: 200px;
+  border: solid 2px #00cc39;
+}
+
+figure {
+  margin-left: 300px;
+  margin-top: 15px;
+}/*# sourceMappingURL=style.css.map */
